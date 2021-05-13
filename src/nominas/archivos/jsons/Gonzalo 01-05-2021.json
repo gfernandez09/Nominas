@@ -1,0 +1,32 @@
+{
+    "nominas": {
+        "nomina": {
+            "idNomina": 3,
+            "trabajador": {
+                "nif": "12345678d",
+                "nombreTrabajador": "Gonzalo",
+                "numeroAfiliacion": "GSC1234",
+                "puesto": "Programador",
+                "salarioBase": "1200.0"
+            },
+            "empresa": {
+                "nombreEmpresa": "CIDE",
+                "domicilio": "C/L'Arner 3",
+                "cif": "F07038722",
+                "ccc": "CIDECCC"
+            },
+            "fechaInicio": "01-05-2021",
+            "fechaFin": "31-05-2021",
+            "horasExtraordinarias": "10",
+            "horasExtraordinariasPorFuerzaMayor": "9",
+            "horasComplementarias": "8",
+            "totalDevengado": "1227,00",
+            "contingenciasComunes": "56,40",
+            "paro": "18,75",
+            "formacionProfesional": "1,21",
+            "totalAportaciones": "76,36",
+            "totalReducir": "216,00",
+            "importeLiquidoPercibir": "1011,00"
+        }
+    }
+}

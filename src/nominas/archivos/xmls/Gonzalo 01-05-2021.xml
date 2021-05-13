@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+    <nominas>
+        <nomina>
+            <idNomina>3</idNomina>
+            <trabajador>
+                <nif>12345678d</nif>
+                <nombreTrabajador>Gonzalo</nombreTrabajador>
+                <numeroAfiliacion>GSC1234</numeroAfiliacion>
+                <puesto>Programador</puesto>
+                <salarioBase>1200.0</salarioBase>
+            </trabajador>
+            <empresa>
+                <nombreEmpresa>CIDE</nombreEmpresa>
+                <domicilio>C/ L'Arner 3</domicilio>
+                <cif>F07038722</cif>
+                <ccc>CIDECCC</ccc>
+            </empresa>
+            <fechaInicio>01-05-2021</fechaInicio>
+            <fechaFin>31-05-2021</fechaFin>
+            <horasExtraordinarias>10</horasExtraordinarias>
+            <horasExtraordinariasPorFuerzaMayor>9</horasExtraordinariasPorFuerzaMayor>
+            <horasComplementarias>8</horasComplementarias>
+            <totalDevengado>1227,00</totalDevengado>
+            <contingenciasComunes>56,40</contingenciasComunes>
+            <paro>18,75</paro>
+            <formacionProfesional>1,21</formacionProfesional>
+            <totalAportaciones>76,36</totalAportaciones>
+            <totalReducir>216,00</totalReducir>
+            <importeLiquidoPercibir>1011,00</importeLiquidoPercibir>
+        </nomina>
+    </nominas>
