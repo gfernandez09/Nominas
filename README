@@ -44,7 +44,7 @@ CREATE TABLE Convenio(
 
 -- Inserts de la tabla de los convenios.
 INSERT INTO Convenio(idConvenio, nombreConvenio, irpf, contingenciasComunes, paro, formacionProfesional, horasExtraordinarias, horasExtraordinariasPorFuerzaMayor, salarioBase) 
-VALUES('far', 'Farmacia', 11.38, 4.70, 1.55, 0.10, 4.70, 2, 8500);
+VALUES('far', 'Farmacia', 11.38, 4.70, 1.55, 0.10, 4.70, 2, 9000);
 
 -- Creacion de la tabla de los trabajadores
 CREATE TABLE Trabajador(
